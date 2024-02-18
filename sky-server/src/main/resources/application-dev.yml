@@ -11,3 +11,7 @@ sky:
     access-key-id: LTAI5tATAHKtU2aovzH5nsAA
     access-key-secret: zDgiskv67HUoBgDdCyNFMAf4tNWJek
     bucket-name: web-tlias-test2024
+  redis:
+    host: localhost
+    port: 6379
+    database: 1
