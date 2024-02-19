@@ -53,5 +53,7 @@ public interface DishService {
      * @return
      */
     List<Dish> list(Long categoryId);
+
+    void startOrStop(Integer status, Long id);
 }
 
